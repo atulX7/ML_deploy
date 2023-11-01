@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "model_data_bucket" {
-  bucket = "your-model-data-bucket" # Replace with your bucket name
+  bucket = "airflowpipelinebucket" # Replace with your bucket name
   acl    = "private"
 }
 
