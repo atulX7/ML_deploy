@@ -1,6 +1,10 @@
 # ML_deploy
+<<<<<<< HEAD
 This is for the Model deployment
 
+=======
+This is for the Model Deployment 
+>>>>>>> 1b1f13c6595f6e4a032729e4a1d5bf23b197d597
 
 ml-model-deployment/
 ├── config/
@@ -21,3 +25,7 @@ ml-model-deployment/
 │ ├── requirements.txt # Python dependencies for inference
 │ └── your_model.py # Your trained model (if required)
 └── README.md # Project documentation
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1b1f13c6595f6e4a032729e4a1d5bf23b197d597
